@@ -1,0 +1,1 @@
+import{y as s,z as l,Z as t,_ as a,o as e,c as n,B as r,a0 as u}from"./index-2172e54e.js";const o=s({__name:"index",setup(s){const o=l("");return t((s=>{(null==s?void 0:s.title)&&a({title:s.title}),(null==s?void 0:s.url)&&(o.value=s.url)})),(s,l)=>{const t=u;return e(),n(t,{class:"h-full",src:r(o)},null,8,["src"])}}});export{o as default};
