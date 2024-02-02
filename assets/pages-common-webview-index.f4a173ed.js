@@ -1,1 +1,0 @@
-import{d as s,r as a,a0 as r,o as e,c as l,e as n,a1 as t}from"./index-76ee8ea1.js";const u=s({__name:"index",setup(s){const u=a("");return r((s=>{s.url&&(u.value=s.url)})),(s,a)=>{const r=t;return e(),l(r,{class:"h-full",src:n(u)},null,8,["src"])}}});export{u as default};
