@@ -1,0 +1,1 @@
+import{d as s,r as a,ae as r,o as e,c as l,e as n,af as t}from"./index-54443f85.js";const u=s({__name:"index",setup(s){const u=a("");return r((s=>{s.url&&(u.value=s.url)})),(s,a)=>{const r=t;return e(),l(r,{class:"h-full",src:n(u)},null,8,["src"])}}});export{u as default};
