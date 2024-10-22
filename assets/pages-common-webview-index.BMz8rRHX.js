@@ -1,1 +1,0 @@
-import{d as s,r as a,a2 as r,o as e,c as l,e as n,a3 as t}from"./index-B4-cBmJ3.js";const u=s({__name:"index",setup(s){const u=a("");return r((s=>{s.url&&(u.value=s.url)})),(s,a)=>{const r=t;return e(),l(r,{class:"h-full",src:n(u)},null,8,["src"])}}});export{u as default};
